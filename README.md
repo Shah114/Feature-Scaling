@@ -1,6 +1,6 @@
 # Feature-Scaling
 <br/>
-**Overview**<br/>
+Overview<br/>
 Feature scaling is a crucial step in data preprocessing for machine learning algorithms. It involves transforming the features of your dataset to a similar scale, ensuring that no feature dominates the others. This helps improve the performance and accuracy of many algorithms by providing a balanced input space.
 <br/>
 
